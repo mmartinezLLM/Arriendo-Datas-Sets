@@ -1,0 +1,555 @@
+{
+  "data": {
+    "id": 191879923,
+    "idFincaLegacy": null,
+    "title": "Casa en  Venta en Juan de ampudia, Jamundí",
+    "typeID": 1,
+    "address": "Jamundí, Valle del Cauca, Colombia",
+    "showAddress": true,
+    "country_id": 3,
+    "description": "Se vende en Jamundi lote de 4.000 metros cuadrados con construcción de 2 casas, la principal de 720m2, la otra de 212 m2, ambas con excelentes acabados,  en condominio privilegio, vía Cali Jamundí, La casa principal con car house, antejardines, 720m2, 5 alcobas, 5 baños, la alcoba principal con Wolking closet, baño, 2 lavamanos, ducha con cabina de hidromasaje, sala y salacomedor, cocina abierta con isla, lavaplatos eléctrico, triturador, mesones en mármol,  torre de horno, baño social, zona de lavandería con lavadora y secadora, alcoba del servicio con baño, 6 parqueaderos de los cuales 2 son cubiertos, 2 depósitos, piscina privada y jacuzzi, planta eléctrica, gas natural, motobombas. Posee un salón grande en El segundo piso con vista 360 grados.",
+    "code": "FRX3B44D",
+    "code2": null,
+    "finances": false,
+    "grouped_ids": null,
+    "img": "https://cdn2.infocasas.com.uy/repo/img/67881e81ecc1c_infocdn__waf99lgbvntjzqs9nqd4xu9k5fu7c3mlq03qgywmjpg.jpg",
+    "isMapFeatured": false,
+    "price": {
+      "amount": 2000000000,
+      "admin_included": 2000000000,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$",
+        "rate": 3725.22
+      }
+    },
+    "price_amount_usd": 536881,
+    "price_admin_usd": 536881,
+    "owner": {
+      "id": 174832184,
+      "name": "Construdiseños",
+      "masked_phone": "+57 3",
+      "whatsapp_phone": null,
+      "has_whatsapp": true,
+      "active": true,
+      "logo": "https://static-prod-asset.fincaraiz.com.co/site/fincaraiz_service/media/corporation/logo/ec0ee60c-d99f-47fc-b238-a0b33b18307b/opt/2024020515560011362.png",
+      "inmoLink": null,
+      "inmoPropsLink": "/inmobiliarias/174832184-construdiseños/propiedades",
+      "inmofull": false,
+      "type": "inmobiliaria",
+      "particular": false,
+      "address": "",
+      "subsidiaries": [
+        {
+          "id": 695258,
+          "name": "Casa central",
+          "masked_phone": "+5731",
+          "address": "",
+          "office_hours": ""
+        }
+      ]
+    },
+    "locations": {
+      "location_point": "POINT (-76.5403266 3.2617697)",
+      "location_main": {
+        "id": "843c146c-ac6c-4a61-ac3c-144ec3720d9a",
+        "name": "Juan de ampudia",
+        "slug": [
+          "neighbourhood-colombia-76-364-000027"
+        ],
+        "location_type": "neighbourhood"
+      },
+      "country": [
+        {
+          "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+          "name": "Colombia",
+          "slug": [
+            "country-48-colombia"
+          ]
+        }
+      ],
+      "state": [
+        {
+          "id": "baa6a98e-3451-4ae9-b082-3e395a5f0504",
+          "name": "Valle del cauca",
+          "slug": [
+            "state-colombia-76-valle-del-cauca"
+          ],
+          "indicative": null
+        }
+      ],
+      "city": [
+        {
+          "id": "afeb5924-39f4-4b92-adb2-7977e89b5b9a",
+          "name": "Jamundí",
+          "slug": [
+            "city-colombia-76-364"
+          ]
+        }
+      ],
+      "locality": [],
+      "commune": [],
+      "zone": [
+        {
+          "id": "3b7b0c8b-678f-437c-999c-60bd8b8275e3",
+          "name": "Zona Sur",
+          "slug": [
+            "zone-colombia-jamundi-zona-sur"
+          ]
+        },
+        {
+          "id": "00f3ef9e-4964-47b3-b11c-376acd20fcff",
+          "name": "Zona Centro",
+          "slug": [
+            "zone-colombia-jamundi-zona-centro"
+          ]
+        }
+      ],
+      "region": [],
+      "neighbourhood": [
+        {
+          "id": "843c146c-ac6c-4a61-ac3c-144ec3720d9a",
+          "name": "Juan de ampudia",
+          "slug": [
+            "neighbourhood-colombia-76-364-000027"
+          ]
+        }
+      ]
+    },
+    "seller": null,
+    "technicalSheet": [
+      {
+        "field": "property_type_name",
+        "value": "Casa",
+        "text": "Tipo de Inmueble"
+      },
+      {
+        "field": "construction_state_name",
+        "value": "Usado",
+        "text": "Estado"
+      },
+      {
+        "field": "bathrooms",
+        "value": "3",
+        "text": "Baños"
+      },
+      {
+        "field": "constructionYear",
+        "value": "",
+        "text": "Antigüedad"
+      },
+      {
+        "field": "bedrooms",
+        "value": "5",
+        "text": "Habitaciones"
+      },
+      {
+        "field": "garage",
+        "value": "10",
+        "text": "Parqueaderos"
+      },
+      {
+        "field": "m2Built",
+        "value": "",
+        "text": "Área Construida"
+      },
+      {
+        "field": "m2Terrain",
+        "value": "",
+        "text": "Área del terreno"
+      },
+      {
+        "field": "m2apto",
+        "value": "",
+        "text": "Área Privada"
+      },
+      {
+        "field": "stratum",
+        "value": "6",
+        "text": "Estrato"
+      },
+      {
+        "field": "floor",
+        "value": "2",
+        "text": "Piso N°"
+      },
+      {
+        "field": "floorsAmount",
+        "value": "2",
+        "text": "Cantidad de pisos"
+      },
+      {
+        "field": "barter",
+        "value": "",
+        "text": "Acepta permuta"
+      }
+    ],
+    "image_count": 15,
+    "file_count": 0,
+    "imgSize": 23835,
+    "link": "/casa-en-venta-en-juan-de-ampudia-jamundi/191879923",
+    "property_type": {
+      "id": 1,
+      "name": "Casa"
+    },
+    "operation_type": {
+      "id": 1,
+      "name": "Venta"
+    },
+    "barter": false,
+    "facilities": [
+      {
+        "id": 234,
+        "name": "Aire Acondicionado",
+        "group": "Interior"
+      },
+      {
+        "id": 251,
+        "name": "Balcón",
+        "group": "Interior"
+      },
+      {
+        "id": 252,
+        "name": "Barra estilo americano",
+        "group": "Interior"
+      },
+      {
+        "id": 253,
+        "name": "Baño Auxiliar",
+        "group": "Interior"
+      },
+      {
+        "id": 284,
+        "name": "Cocina Integral",
+        "group": "Interior"
+      },
+      {
+        "id": 305,
+        "name": "Cuarto de servicio",
+        "group": "Interior"
+      },
+      {
+        "id": 309,
+        "name": "Depósito / Bodega",
+        "group": "Interior"
+      },
+      {
+        "id": 333,
+        "name": "Estudio",
+        "group": "Interior"
+      },
+      {
+        "id": 347,
+        "name": "Hall de Alcobas",
+        "group": "Interior"
+      },
+      {
+        "id": 349,
+        "name": "Instalación de gas",
+        "group": "Interior"
+      },
+      {
+        "id": 352,
+        "name": "Jardín",
+        "group": "Exterior"
+      },
+      {
+        "id": 403,
+        "name": "Salón Comunal",
+        "group": "Exterior"
+      },
+      {
+        "id": 452,
+        "name": "Zona de lavandería",
+        "group": "Interior"
+      }
+    ],
+    "m2": 720,
+    "m2Built": null,
+    "m2apto": 0,
+    "m2Terrain": null,
+    "m2Terrace": null,
+    "hectares": null,
+    "created_at": "2025-01-15",
+    "updated_at": "2025-08-30",
+    "latitude": 3.2617697,
+    "longitude": -76.5403266,
+    "images": [
+      {
+        "id": 202463234,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e81ecc1c_infocdn__waf99lgbvntjzqs9nqd4xu9k5fu7c3mlq03qgywmjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463227,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e817ebc8_infocdn__y4zlm6y4bof0ikzgrx8e3cx9tehzejfjpvgtyepyjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463185,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e7e8d3c2_infocdn__vbiecw80idahxd4fcbawlyi5djr2w8jlh60e3jufjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463192,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e7f000c8_infocdn__aultzqbxh1ziorq9d1aa1hv3pn7aqefh9pkork19jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463196,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e7f6d9b6_infocdn__79gnuws7duzajacfnxb45mnngoizhvbeipgzesohjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463201,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e7fcf639_infocdn__oudlwqhmjpzjami9zsd98euvmuxvncfzvjnda2gnjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463207,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e8043fc7_infocdn__oynh6jmgnbfudpwlfekn0zqta9ueytfbkxbaxrtfjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463214,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e80ad5c7_infocdn__qm91f5bocsoua4ymj1ucg8koaejnfyno2wb5gay7jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463220,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e812411e_infocdn__jzwwgt46d2vie2cf6albfzkdgrwjga7kvfdo98mnjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463242,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e825e5c6_infocdn__5jgkigd1hus5vo9juoby6fvmxrbalegza6plbmzmjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463254,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e8343109_infocdn__zptyuhacxzlsvzmuw6jgoxsvcgguxl2k7f9kfajvjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463262,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e83c30f3_infocdn__ou6zww5kd7aagq3dtoevf0axozqfikwgrvuigdoyjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463270,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e8437ed2_infocdn__y7etaf5w9dlzqzgkpajk1dyfr91cjate8kpqzzyxjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463273,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e848b37f_infocdn__dvvvntzfg3yutkrnjrrpgqv3njnfsk40uh8mpzycjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202463280,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/67881e850166b_infocdn__53py4oga1ctlhwntavx0xbgy8z3xpr0t375uou97jpg.jpg",
+        "tag": null
+      }
+    ],
+    "files": [],
+    "source": null,
+    "color": null,
+    "project_group_md5": "property_191879923",
+    "project": [],
+    "pausd": false,
+    "pointType": false,
+    "zoom": 15,
+    "youtube": "",
+    "highlight": 16,
+    "active": true,
+    "deleted": false,
+    "relevance": 0,
+    "antiquity": null,
+    "construction_year": null,
+    "notes": "",
+    "sold": false,
+    "soldDate": null,
+    "discount": null,
+    "draft": false,
+    "sign": null,
+    "guarantee": null,
+    "facilitiesNotApply": false,
+    "commonExpenses": {
+      "amount": 0,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$"
+      }
+    },
+    "price_variation": {},
+    "ceCurrencyID": 4,
+    "highlightDate": "2025-08-30",
+    "socialMediaLinks": [
+      {
+        "slug": "facebook",
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/casa-en-venta-en-juan-de-ampudia-jamundi/191879923",
+        "icon": "icon-facebook-1",
+        "order": null
+      },
+      {
+        "slug": "linkedin",
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/casa-en-venta-en-juan-de-ampudia-jamundi/191879923",
+        "icon": "icon-linkedin",
+        "order": null
+      },
+      {
+        "slug": "twitter",
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/casa-en-venta-en-juan-de-ampudia-jamundi/191879923",
+        "icon": "icon-twitter",
+        "order": null
+      },
+      {
+        "slug": "email",
+        "name": "email",
+        "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/casa-en-venta-en-juan-de-ampudia-jamundi/191879923",
+        "icon": "icon-mail",
+        "order": null
+      }
+    ],
+    "garage": 10,
+    "office": false,
+    "dispositionID": 1,
+    "bathrooms": 3,
+    "rooms": 0,
+    "seaview": false,
+    "livingPlace": false,
+    "condominium": false,
+    "frontLength": null,
+    "floorsCount": 2,
+    "apartmentsPerFloor": 0,
+    "floor": 2,
+    "neighborhood_id": 0,
+    "estate_id": 0,
+    "farmhouse": false,
+    "allowedHeight": "",
+    "isFavorite": false,
+    "isExternal": false,
+    "guests": 0,
+    "seasons": [],
+    "occupancies": [],
+    "temporal_price": null,
+    "temporal_currency": {},
+    "seaDistanceName": null,
+    "tour3d": null,
+    "legacy_propID": 191879923,
+    "isProject": null,
+    "isProjectUnit": false,
+    "operation_type_id": 1,
+    "property_type_id": 1,
+    "currency": "$",
+    "currency_id": 4,
+    "hidePrice": false,
+    "stratum": 6,
+    "commonExpenses_currency": "$",
+    "constStatesID": 0,
+    "bedrooms": 5,
+    "event": {
+      "show": false,
+      "fecha_inicio_evento": null,
+      "link": null,
+      "logo": null,
+      "tag": null
+    },
+    "turbo_product": {
+      "start_date": null,
+      "end_date": null,
+      "duration": null
+    },
+    "tag": {},
+    "commercial_units": {},
+    "modify_score": 0,
+    "modify_score_client": 0,
+    "description_count": 757,
+    "categories_count": 13,
+    "has_images": true,
+    "has_video": false,
+    "paid_quota": true,
+    "logo": null,
+    "include_administration": false,
+    "md5": 191879923,
+    "hasGarage": true,
+    "penthouse": false,
+    "idForm": null,
+    "finalization_date": null,
+    "fair": {},
+    "hasTour3d": false,
+    "duplicated": []
+  },
+  "technical_sheet": [
+    {
+      "field": "property_type_name",
+      "value": "Casa",
+      "text": "Tipo de Inmueble"
+    },
+    {
+      "field": "construction_state_name",
+      "value": "Usado",
+      "text": "Estado"
+    },
+    {
+      "field": "bathrooms",
+      "value": "3",
+      "text": "Baños"
+    },
+    {
+      "field": "constructionYear",
+      "value": "",
+      "text": "Antigüedad"
+    },
+    {
+      "field": "bedrooms",
+      "value": "5",
+      "text": "Habitaciones"
+    },
+    {
+      "field": "garage",
+      "value": "10",
+      "text": "Parqueaderos"
+    },
+    {
+      "field": "m2Built",
+      "value": "",
+      "text": "Área Construida"
+    },
+    {
+      "field": "m2Terrain",
+      "value": "",
+      "text": "Área del terreno"
+    },
+    {
+      "field": "m2apto",
+      "value": "",
+      "text": "Área Privada"
+    },
+    {
+      "field": "stratum",
+      "value": "6",
+      "text": "Estrato"
+    },
+    {
+      "field": "floor",
+      "value": "2",
+      "text": "Piso N°"
+    },
+    {
+      "field": "floorsAmount",
+      "value": "2",
+      "text": "Cantidad de pisos"
+    },
+    {
+      "field": "barter",
+      "value": "",
+      "text": "Acepta permuta"
+    }
+  ]
+}

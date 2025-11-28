@@ -1,0 +1,313 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║              🌐 SCRAPER DE INMOBILIARIAS - FINCARAIZ.COM.CO 🌐              ║
+║                     Sistema de Extracción Automatizada                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📋 INSTRUCCIONES DE USO RÁPIDO
+═══════════════════════════════════════════════════════════════════════════════
+
+OPCIÓN 1: LA MÁS FÁCIL (Recomendado para Windows)
+─────────────────────────────────────────────────────
+
+1. Abre la carpeta: scraper_inmobiliarias
+2. Haz DOBLE CLIC en: instalar.bat
+3. Selecciona una opción:
+   - 1: Inspeccionar estructura de la página
+   - 2: Ejecutar scraper
+   - 3: Ambas opciones
+   - 4: Solo instalar
+
+¡Listo! Los datos se guardarán en: resultados/
+
+
+OPCIÓN 2: CON POWERSHELL (Para usuarios avanzados)
+────────────────────────────────────────────────────
+
+# Paso 1: Abrir PowerShell en la carpeta del proyecto
+# Paso 2: Instalar dependencias
+pip install -r requirements.txt
+
+# Paso 3: Ejecutar scraper
+python main_fincaraiz.py
+
+# Los datos estarán en: resultados/
+
+
+OPCIÓN 3: MENÚ INTERACTIVO (Python puro)
+───────────────────────────────────────────
+
+python setup_and_run.py
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📊 ¿QUÉ OBTIENE ESTE SCRAPER?
+───────────────────────────────
+
+Para cada inmobiliaria extrae:
+
+✓ Titulo        → Nombre de la inmobiliaria
+✓ Correo        → Email de contacto
+✓ Teléfono      → Número de contacto
+✓ Inmuebles     → Cantidad de propiedades listadas
+✓ URL           → Enlace al perfil
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📁 ¿DÓNDE ESTÁN LOS DATOS?
+─────────────────────────
+
+Después de ejecutar, busca la carpeta: resultados/
+
+Dentro encontrarás:
+
+📊 inmobiliarias_*.csv        → Datos en Excel (RECOMENDADO)
+📊 inmobiliarias_*.json       → Datos estructurados
+📊 inmobiliarias_*.xlsx       → Datos formateados
+📝 scraper.log                → Registro de operaciones
+🔍 inspection_report.json     → Análisis de estructura
+🔍 detection_report.json      → Reporte de detección
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+⚙️ CONFIGURACIÓN (Opcional)
+──────────────────────────
+
+Edita el archivo config.py si deseas cambiar:
+
+HEADLESS = False              # Ver navegador (True = sin ventana)
+BROWSER_TYPE = "chrome"       # "chrome" o "firefox"
+OUTPUT_FORMAT = "csv"         # "csv", "json" o "excel"
+WAIT_TIME = 10               # Segundos de espera
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+❓ PREGUNTAS FRECUENTES
+──────────────────────
+
+P: ¿Necesito instalar Chrome o Firefox?
+R: Se instalan automáticamente. Si no, descargalo de:
+   - Chrome: https://www.google.com/chrome/
+   - Firefox: https://www.mozilla.org/firefox/
+
+P: ¿Por qué tarda tanto la primera ejecución?
+R: La primera vez descarga drivers, carga la página y analiza la estructura.
+   Las siguientes ejecuciones serán más rápidas.
+
+P: ¿Puedo cambiar el formato de salida?
+R: Sí. Edita config.py y cambia OUTPUT_FORMAT = "excel"
+   Opciones: "csv", "json", "excel"
+
+P: ¿Qué pasa si la página no carga?
+R: Revisa los logs en resultados/scraper.log
+   Verifica tu conexión a Internet
+
+P: ¿Puedo ver qué está haciendo el script?
+R: Cambia en config.py: HEADLESS = False
+   Así verás el navegador en acción
+
+P: ¿Cómo ejecuto esto automáticamente cada día?
+R: Windows > Task Scheduler > Nueva tarea > ejecutar_scraper.bat
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📚 DOCUMENTACIÓN
+─────────────────
+
+Archivos de ayuda incluidos:
+
+📄 LEEME.md                   ← Lee primero
+📄 GUIA_RAPIDA.md             ← Guía de comandos
+📄 README.md                  ← Documentación técnica
+📄 DOCUMENTACION_COMPLETA.md  ← Referencia exhaustiva
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚨 SOLUCIÓN RÁPIDA DE PROBLEMAS
+─────────────────────────────────
+
+PROBLEMA: No se encuentran inmobiliarias
+SOLUCIÓN: Ejecuta selector_inspector.py para analizar la página
+
+PROBLEMA: ModuleNotFoundError
+SOLUCIÓN: Ejecuta: pip install -r requirements.txt
+
+PROBLEMA: Timeout (tarda demasiado)
+SOLUCIÓN: En config.py aumenta WAIT_TIME a 20 o 30
+
+PROBLEMA: Chrome/Firefox no encontrado
+SOLUCIÓN: Instala Chrome desde https://www.google.com/chrome/
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎯 PASOS RECOMENDADOS
+───────────────────────
+
+1️⃣ Lee este archivo hasta el final
+2️⃣ Haz clic en instalar.bat
+3️⃣ Selecciona opción 1 (Inspeccionar) para entender la estructura
+4️⃣ Selecciona opción 2 (Scraper) para extraer datos
+5️⃣ Abre resultados/ para ver tus datos
+6️⃣ Abre el CSV en Excel para análisis
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+💾 FORMATO DE DATOS EXTRAÍDOS
+──────────────────────────────
+
+Ejemplo de lo que obtendrás en resultados/
+
+CSV (Perfect para Excel):
+─────────────────────────
+titulo,correo,telefono,cantidad_inmuebles,url
+"Inmobiliaria Premium","contacto@inmobiliaria.com","+57 1 5551234",237,"https://..."
+"Inmobiliaria Elite","info@elite.com","Requiere inicio sesión",156,"https://..."
+
+JSON (Para programadores):
+──────────────────────────
+[
+  {
+    "titulo": "Inmobiliaria Premium",
+    "correo": "contacto@inmobiliaria.com",
+    "telefono": "+57 1 5551234",
+    "cantidad_inmuebles": 237,
+    "url": "https://..."
+  }
+]
+
+Excel (Profesional):
+────────────────────
+Una hoja con columnas ajustadas y datos formateados
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+⏱️ TIEMPO ESTIMADO
+───────────────────
+
+Primera vez:
+- Descarga de drivers: 1-2 minutos
+- Instalación: 2-3 minutos
+- Inspección: 3-5 minutos
+- Scraping: 5-10 minutos
+TOTAL: 10-20 minutos
+
+Siguientes veces:
+- Scraping solamente: 5-10 minutos
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📞 ARCHIVOS DE AYUDA
+─────────────────────
+
+Ejecutables Windows (.bat):
+├── instalar.bat              ← Instala todo automáticamente
+├── ejecutar_scraper.bat      ← Ejecuta el scraper
+└── ejecutar_inspector.bat    ← Ejecuta el inspector
+
+Scripts Python:
+├── main_fincaraiz.py         ← Scraper principal (RECOMENDADO)
+├── selector_inspector.py     ← Inspector de estructura
+├── selector_manager.py       ← Gestor de selectores
+└── setup_and_run.py          ← Menú interactivo
+
+Configuración:
+├── config.py                 ← Edita aquí tus preferencias
+└── requirements.txt          ← Dependencias (no editar)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✨ CARACTERÍSTICAS ESPECIALES
+──────────────────────────────
+
+✓ Detección automática de estructura de página
+✓ Múltiples estrategias de búsqueda de elementos
+✓ Manejo inteligente de elementos interactivos
+✓ Reintentos automáticos en caso de errores
+✓ Logging detallado para debugging
+✓ Soporte para Chrome y Firefox
+✓ Modo headless para ejecución sin ventana
+✓ Múltiples formatos de salida
+✓ Interfaz amigable para Windows
+✓ Documentación completa
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🔒 NOTAS IMPORTANTES
+──────────────────────
+
+⚠️ Este script es para USO EDUCATIVO Y DE INVESTIGACIÓN
+⚠️ Respeta los términos de servicio de fincaraiz.com.co
+⚠️ El script incluye pausas para no sobrecargar servidores
+⚠️ Usa los datos de forma responsable y ética
+⚠️ Algunos datos pueden requerir login en el sitio original
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎉 COMIENZA YA
+───────────────
+
+OPCIÓN FÁCIL (Recomendada):
+   1. Haz DOBLE CLIC en: instalar.bat
+   2. Selecciona opción 2: Ejecutar scraper
+   3. ¡Espera a que termine!
+
+OPCIÓN POWERSHELL:
+   1. Abre PowerShell
+   2. Ejecuta: python main_fincaraiz.py
+   3. ¡Los datos estarán listos en resultados/!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📊 RESULTADO ESPERADO
+──────────────────────
+
+Después de ejecutar, verás:
+
+✓ Navegador abierto (si HEADLESS=False)
+✓ Logs en tiempo real en la consola
+✓ Barra de progreso con inmobiliarias extraídas
+✓ Archivos generados en carpeta resultados/
+✓ Resumen final con estadísticas
+
+ESTADÍSTICAS TÍPICAS:
+- Total de inmobiliarias: 50-200+
+- Con teléfono disponible: 30-50%
+- Con correo disponible: 80-95%
+- Total de inmuebles catalogados: 5000-50000+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 ¡LISTO!
+───────────
+
+Ya puedes empezar. Elige la opción que prefieras:
+
+   FÁCIL:    Haz doble clic en instalar.bat
+   AVANZADO: Abre PowerShell y ejecuta: python main_fincaraiz.py
+
+¡Éxito! 🎉
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Desarrollado por: BROWSER TRAVEL SOLUTIONS S.A.S VIAJEMOS
+Versión: 1.0
+Fecha: Noviembre 2025
+
+═══════════════════════════════════════════════════════════════════════════════

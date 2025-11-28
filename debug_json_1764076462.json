@@ -1,0 +1,509 @@
+{
+  "data": {
+    "id": 192758986,
+    "idFincaLegacy": null,
+    "title": "Local en Arriendo en Guayaquil, Cali",
+    "typeID": 4,
+    "address": "KR 22 # 10 - 2",
+    "showAddress": true,
+    "country_id": 3,
+    "description": "Local 4 disponible en arriendo en el edificio Soletio, ubicado en la Carrera 22 No. 10-02, barrio Bretaña, Cali. Espacio comercial en primer piso a nivel de andén con aproximadamente 29.30 m2 de área privada medidos en planos, distribuido en un salón principal rectangular con frente hacia la calle, un ambiente posterior tipo apoyo y un baño interno independiente con lavamanos e instalación de lavadero. La planta libre facilita el amoblamiento, el recibo de clientes y la exhibición; los acabados en tonos claros (piso cerámico, muros y cielo blanco) aportan sensación de amplitud y buena iluminación, y la geometría del local permite organizar áreas de atención, vitrina, almacenamiento o punto de caja con gran facilidad. Cuenta con red eléctrica instalada, punto de agua en el baño y luminarias de techo; el acceso es directo desde la acera, lo que favorece la visibilidad y la recordación de marca. El edificio tiene vocación mixta y se ubica sobre un microcorredor barrial con presencia de comercio de cercanía y una base residencial que genera demanda constante durante todo el día. En el entorno inmediato existen rutas de transporte público, vías de acceso cómodas y opciones de parqueo sobre la vía, lo que facilita la operación y el arribo de proveedores y clientes. La fachada del conjunto ofrece posibilidad de rotular según normativa urbana y lineamientos del administrador, permitiendo destacar tu identidad visual. El local se entrega pintado, limpio y listo para que el arrendatario realice su montaje ligero y personalice imagen, mobiliario y distribución interna conforme a sus necesidades. Condiciones económicas: canon mensual de $990.000 COP; los consumos de servicios públicos corren por cuenta del arrendatario; se firma contrato de arrendamiento de naturaleza comercial. Disponibilidad inmediata y flexibilidad para coordinar fechas de adecuación. Diferenciales del inmueble: ubicación estratégica en Bretaña con flujo vehicular y residencial, planta libre fácil de adaptar, baño privado dentro del local para comodidad del personal y de clientes, acabados neutros que reducen tiempos y costos de alistamiento, frente abierto a la vía que mejora la exposición del negocio, y proporción de área ideal para operaciones eficientes con costos fijos controlados. Este espacio es una excelente opción para emprendedores, marcas en crecimiento o puntos satélite de empresas ya consolidadas que buscan presencia en un sector tradicional de la ciudad, con un canon competitivo y una superficie que permite operar de manera ágil. Si necesitas apoyo con el diseño de distribución, listado de dotación mínima o guía de alistamiento para apertura, podemos compartir recomendaciones prácticas para que tengas una entrada en operación rápida, ordenada y cumpliendo con la normativa urbana y sanitaria aplicable. Agenda tu visita hoy mismo; con gusto coordinamos recorrido, resolvemos tus preguntas, compartimos video del inmueble y te entregamos el formulario de requisitos para avanzar con el estudio de arrendamiento y la reserva. Entrega inmediata. contactanos: ***LUIS FERNAN, ***, ***",
+    "code": "FRLLD566E",
+    "code2": null,
+    "finances": false,
+    "grouped_ids": null,
+    "img": "https://cdn2.infocasas.com.uy/repo/img/689faa47d1a9d_infocdn__dmhqbfyqi6kdghqblfifxvz5xt5kebs0bgrx6o79png.png",
+    "isMapFeatured": false,
+    "price": {
+      "amount": 900000,
+      "admin_included": 900000,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$",
+        "rate": 3725.22
+      }
+    },
+    "price_amount_usd": 242,
+    "price_admin_usd": 242,
+    "owner": {
+      "id": 174832184,
+      "name": "Construdiseños",
+      "masked_phone": "+57 3",
+      "whatsapp_phone": null,
+      "has_whatsapp": true,
+      "active": true,
+      "logo": "https://static-prod-asset.fincaraiz.com.co/site/fincaraiz_service/media/corporation/logo/ec0ee60c-d99f-47fc-b238-a0b33b18307b/opt/2024020515560011362.png",
+      "inmoLink": null,
+      "inmoPropsLink": "/inmobiliarias/174832184-construdiseños/propiedades",
+      "inmofull": false,
+      "type": "inmobiliaria",
+      "particular": false,
+      "address": "",
+      "subsidiaries": [
+        {
+          "id": 695258,
+          "name": "Casa central",
+          "masked_phone": "+5731",
+          "address": "",
+          "office_hours": ""
+        }
+      ]
+    },
+    "locations": {
+      "location_point": "POINT (-76.531108572081 3.4374032)",
+      "location_main": {
+        "id": "a68f7252-9038-4eb1-8114-5c31d5a62474",
+        "name": "Guayaquil",
+        "slug": [
+          "neighbourhood-colombia-76-001-000903"
+        ],
+        "location_type": "neighbourhood"
+      },
+      "country": [
+        {
+          "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+          "name": "Colombia",
+          "slug": [
+            "country-48-colombia"
+          ]
+        }
+      ],
+      "state": [
+        {
+          "id": "baa6a98e-3451-4ae9-b082-3e395a5f0504",
+          "name": "Valle del cauca",
+          "slug": [
+            "state-colombia-76-valle-del-cauca"
+          ],
+          "indicative": null
+        }
+      ],
+      "city": [
+        {
+          "id": "0e99ce18-9ff5-4c20-9b60-6150cc9e094b",
+          "name": "Cali",
+          "slug": [
+            "city-colombia-76-001"
+          ]
+        }
+      ],
+      "locality": [],
+      "commune": [
+        {
+          "id": "230cd80e-fc83-4aaa-8422-b3d3c295fa2b",
+          "name": "Comuna 9",
+          "slug": [
+            "commune-colombia-cali-001-76-09"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "id": "c3d926ae-2855-4af7-856f-202d3197c478",
+          "name": "Centro",
+          "slug": [
+            "zone-colombia-cali-centro"
+          ]
+        }
+      ],
+      "region": [],
+      "neighbourhood": [
+        {
+          "id": "32ec3b24-c3a3-406a-9385-78d315e94d6f",
+          "name": "Bretaña",
+          "slug": [
+            "neighbourhood-colombia-76-001-000904"
+          ]
+        },
+        {
+          "id": "a68f7252-9038-4eb1-8114-5c31d5a62474",
+          "name": "Guayaquil",
+          "slug": [
+            "neighbourhood-colombia-76-001-000903"
+          ]
+        }
+      ]
+    },
+    "seller": null,
+    "technicalSheet": [
+      {
+        "field": "property_type_name",
+        "value": "Local",
+        "text": "Tipo de Inmueble"
+      },
+      {
+        "field": "construction_state_name",
+        "value": "Usado",
+        "text": "Estado"
+      },
+      {
+        "field": "bathrooms",
+        "value": "1",
+        "text": "Baños"
+      },
+      {
+        "field": "constructionYear",
+        "value": "menor a 1 año",
+        "text": "Antigüedad"
+      },
+      {
+        "field": "garage",
+        "value": "",
+        "text": "Parqueaderos"
+      },
+      {
+        "field": "room",
+        "value": "1",
+        "text": "Cantidad de Ambientes"
+      },
+      {
+        "field": "m2Built",
+        "value": "",
+        "text": "Área Construida"
+      },
+      {
+        "field": "m2apto",
+        "value": "29,30 m2",
+        "text": "Área Privada"
+      },
+      {
+        "field": "stratum",
+        "value": "3",
+        "text": "Estrato"
+      },
+      {
+        "field": "commonExpenses",
+        "value": "",
+        "text": "Administración"
+      },
+      {
+        "field": "floor",
+        "value": "1",
+        "text": "Piso N°"
+      },
+      {
+        "field": "story",
+        "value": "1",
+        "text": "Cantidad de Pisos"
+      },
+      {
+        "field": "allowPets",
+        "value": "",
+        "text": "Acepta mascotas"
+      },
+      {
+        "field": "minimumContract",
+        "value": "",
+        "text": "Contrato Mínimo"
+      }
+    ],
+    "image_count": 9,
+    "file_count": 0,
+    "imgSize": 1833205,
+    "link": "/local-en-arriendo-en-guayaquil-cali/192758986",
+    "property_type": {
+      "id": 4,
+      "name": "Local"
+    },
+    "operation_type": {
+      "id": 2,
+      "name": "Arriendo"
+    },
+    "barter": false,
+    "facilities": [
+      {
+        "id": 325,
+        "name": "En zona Comercial",
+        "group": "Exterior"
+      },
+      {
+        "id": 356,
+        "name": "Local Exterior",
+        "group": "Exterior"
+      },
+      {
+        "id": 376,
+        "name": "Parqueadero Visitantes",
+        "group": "Exterior"
+      },
+      {
+        "id": 386,
+        "name": "Piso en Baldosa /  Mármol",
+        "group": "Interior"
+      },
+      {
+        "id": 448,
+        "name": "Zona Comercial",
+        "group": "Sector"
+      }
+    ],
+    "m2": 29.3,
+    "m2Built": null,
+    "m2apto": 29.3,
+    "m2Terrain": null,
+    "m2Terrace": null,
+    "hectares": null,
+    "created_at": "2025-08-15",
+    "updated_at": "2025-10-16",
+    "latitude": 3.4374032,
+    "longitude": -76.531108572081,
+    "images": [
+      {
+        "id": 240492733,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/689faa47d1a9d_infocdn__dmhqbfyqi6kdghqblfifxvz5xt5kebs0bgrx6o79png.png",
+        "tag": null
+      },
+      {
+        "id": 240492734,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/689faa489fa60_infocdn__drqtmdsphgvl9ov6bosgr0ycjwrqrqdbmjsduga5jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 240492735,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/689faa493d1f0_infocdn__k6rtnowtkiedgttwreakzaiw0mdrmuszo8ntw56vjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 240492736,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/689faa49b907c_infocdn__v0olxwvd65s8xopzxhes651bmvhx4cqiwaih1faojpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 240492737,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/689faa4a5061c_infocdn__jwephdtaiyxkkgvkxbw7okrpzpuh6snqhlr5hcgsjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 240492738,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/689faa4ce77ad_infocdn__3usc2p6ysz1ur9aepfwjbyzt72tjbsfzphjzsnb3png.png",
+        "tag": null
+      },
+      {
+        "id": 255995296,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f1586bbbdae_infocdn__mvwiowtyuxnqu327yngbgqdoi0zqndmbjtkrarlfjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 255995297,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f1586dcfb7c_infocdn__h8dozbtypt2le4hrkcdzfnjt3rw2i2mv4rxfplo8jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 255995310,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f1586fc9797_infocdn__tmqf0jtlwmsknnasn42ig6ru3fmdbfh5iiqcunsmjpg.jpg",
+        "tag": null
+      }
+    ],
+    "files": [],
+    "source": null,
+    "color": 3,
+    "project_group_md5": "property_192758986",
+    "project": [],
+    "pausd": false,
+    "pointType": false,
+    "zoom": 15,
+    "youtube": "",
+    "highlight": 16,
+    "active": true,
+    "deleted": false,
+    "relevance": 91.9083,
+    "antiquity": 1,
+    "construction_year": null,
+    "notes": "",
+    "sold": false,
+    "soldDate": null,
+    "discount": null,
+    "draft": false,
+    "sign": null,
+    "guarantee": null,
+    "facilitiesNotApply": false,
+    "commonExpenses": {
+      "amount": 0,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$"
+      }
+    },
+    "price_variation": {},
+    "ceCurrencyID": 4,
+    "highlightDate": "2025-08-16",
+    "socialMediaLinks": [
+      {
+        "slug": "facebook",
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/local-en-arriendo-en-guayaquil-cali/192758986",
+        "icon": "icon-facebook-1",
+        "order": null
+      },
+      {
+        "slug": "linkedin",
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/local-en-arriendo-en-guayaquil-cali/192758986",
+        "icon": "icon-linkedin",
+        "order": null
+      },
+      {
+        "slug": "twitter",
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/local-en-arriendo-en-guayaquil-cali/192758986",
+        "icon": "icon-twitter",
+        "order": null
+      },
+      {
+        "slug": "email",
+        "name": "email",
+        "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/local-en-arriendo-en-guayaquil-cali/192758986",
+        "icon": "icon-mail",
+        "order": null
+      }
+    ],
+    "garage": 0,
+    "office": false,
+    "dispositionID": 1,
+    "bathrooms": 1,
+    "rooms": 1,
+    "seaview": false,
+    "livingPlace": false,
+    "condominium": false,
+    "frontLength": null,
+    "floorsCount": 0,
+    "apartmentsPerFloor": 0,
+    "floor": 1,
+    "neighborhood_id": 0,
+    "estate_id": 0,
+    "farmhouse": false,
+    "allowedHeight": "",
+    "isFavorite": false,
+    "isExternal": false,
+    "guests": 0,
+    "seasons": [],
+    "occupancies": [],
+    "temporal_price": null,
+    "temporal_currency": {},
+    "seaDistanceName": null,
+    "tour3d": null,
+    "legacy_propID": 192758986,
+    "isProject": null,
+    "isProjectUnit": false,
+    "operation_type_id": 2,
+    "property_type_id": 4,
+    "currency": "$",
+    "currency_id": 4,
+    "hidePrice": false,
+    "stratum": 3,
+    "commonExpenses_currency": "$",
+    "constStatesID": 0,
+    "bedrooms": 0,
+    "event": {
+      "show": false,
+      "fecha_inicio_evento": null,
+      "link": null,
+      "logo": null,
+      "tag": null
+    },
+    "turbo_product": {
+      "start_date": null,
+      "end_date": null,
+      "duration": null
+    },
+    "tag": {
+      "ad_id": null,
+      "tag_type": 1,
+      "tag_label": "Oportunidad",
+      "property_id": 192758986,
+      "project_id": null
+    },
+    "commercial_units": {},
+    "modify_score": 0,
+    "modify_score_client": 0,
+    "description_count": 3123,
+    "categories_count": 5,
+    "has_images": true,
+    "has_video": false,
+    "paid_quota": true,
+    "logo": null,
+    "include_administration": false,
+    "md5": 192758986,
+    "hasGarage": false,
+    "penthouse": false,
+    "idForm": null,
+    "finalization_date": null,
+    "fair": {},
+    "hasTour3d": false,
+    "duplicated": []
+  },
+  "technical_sheet": [
+    {
+      "field": "property_type_name",
+      "value": "Local",
+      "text": "Tipo de Inmueble"
+    },
+    {
+      "field": "construction_state_name",
+      "value": "Usado",
+      "text": "Estado"
+    },
+    {
+      "field": "bathrooms",
+      "value": "1",
+      "text": "Baños"
+    },
+    {
+      "field": "constructionYear",
+      "value": "menor a 1 año",
+      "text": "Antigüedad"
+    },
+    {
+      "field": "garage",
+      "value": "",
+      "text": "Parqueaderos"
+    },
+    {
+      "field": "room",
+      "value": "1",
+      "text": "Cantidad de Ambientes"
+    },
+    {
+      "field": "m2Built",
+      "value": "",
+      "text": "Área Construida"
+    },
+    {
+      "field": "m2apto",
+      "value": "29,30 m2",
+      "text": "Área Privada"
+    },
+    {
+      "field": "stratum",
+      "value": "3",
+      "text": "Estrato"
+    },
+    {
+      "field": "commonExpenses",
+      "value": "",
+      "text": "Administración"
+    },
+    {
+      "field": "floor",
+      "value": "1",
+      "text": "Piso N°"
+    },
+    {
+      "field": "story",
+      "value": "1",
+      "text": "Cantidad de Pisos"
+    },
+    {
+      "field": "allowPets",
+      "value": "",
+      "text": "Acepta mascotas"
+    },
+    {
+      "field": "minimumContract",
+      "value": "",
+      "text": "Contrato Mínimo"
+    }
+  ]
+}

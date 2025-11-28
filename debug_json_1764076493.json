@@ -1,0 +1,629 @@
+{
+  "data": {
+    "id": 193006583,
+    "idFincaLegacy": null,
+    "title": "Apartamento en Venta en Versalles, Cali",
+    "typeID": 2,
+    "address": "Platería Ramírez Versalles, Cali, Calle 21 Norte, San Vicente, Cali, Valle del Cauca, Colombia",
+    "showAddress": true,
+    "country_id": 3,
+    "description": "SE VENDE APTO  MUY AMPLIO, EXCELENTE VISTA, UBICADO ESTRATEGICAMENTE, A 2 CUADRAS DE LA AVENIDA LAS AMERICAS Y 2 CUADRAS DE LA AVENIDA SEXTA, FRENTE A PLATERIA RAMIREZ, ESTE APTO SE HA DIVIDIDO EN 2 APTO INDEPENDIENTES, IDEAL PARA PERSONA QUE DESEE TENER UN FAMILIAR DE FORMA INDEPENDIENTE, BAJO SU VIGILANCIA,\n211 M2 EN TOTAL (120 m2 y 80 m2 aprox), 3 HABITACIONES, 3 BAÑOS, BALCON, 2 COCINAS, AMPLIAS ZONAS SOCIALES, PISOS EN RETAL DE MARMOL,, CARPINTERIA ORIGINAL ENTAMBORADA PINTADA EN BLANCO, CERAMICA DE COCINA Y BAÑOS CAMBIADA HACE 15 AÑOS, MESON DE COCINA EN GRANITO, MESONES DE BAÑO EN MARMOL, VENTANERÍA EN ALUMINIO ANOLOCK, 1 PARQUEADERO EN SÓTANO, \nEL EDIFICIO ES DE COLOR BLANCO DE 12 PISOS, CUENTA CON DOS ASCENSORES, TANQUE DE AGUA DE RESERVA, PLANTA ELECTRICA DE SUPLENCIA TOTAL, VIGILANCIA 24/7, \nEl apto es de una sola matricula inmobiliaria, un contador de servicios públicos ($320.000 mes aproximadamente)",
+    "code": "FRAU20F93",
+    "code2": null,
+    "finances": false,
+    "grouped_ids": null,
+    "img": "https://cdn2.infocasas.com.uy/repo/img/68f7b28f2caf5_infocdn__luc3mgugqllzshpv3d7m21pxztxjh582wqzygzsnjpg.jpg",
+    "isMapFeatured": false,
+    "price": {
+      "amount": 630000000,
+      "admin_included": 631141000,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$",
+        "rate": 3877.9
+      }
+    },
+    "price_amount_usd": 162459,
+    "price_admin_usd": 162753,
+    "owner": {
+      "id": 174832184,
+      "name": "Construdiseños",
+      "masked_phone": "+57 3",
+      "whatsapp_phone": null,
+      "has_whatsapp": true,
+      "active": true,
+      "logo": "https://static-prod-asset.fincaraiz.com.co/site/fincaraiz_service/media/corporation/logo/ec0ee60c-d99f-47fc-b238-a0b33b18307b/opt/2024020515560011362.png",
+      "inmoLink": null,
+      "inmoPropsLink": "/inmobiliarias/174832184-construdiseños/propiedades",
+      "inmofull": false,
+      "type": "inmobiliaria",
+      "particular": false,
+      "address": "",
+      "subsidiaries": [
+        {
+          "id": 695258,
+          "name": "Casa central",
+          "masked_phone": "+5731",
+          "address": "",
+          "office_hours": ""
+        }
+      ]
+    },
+    "locations": {
+      "location_point": "POINT (-76.5285802 3.4615507)",
+      "location_main": {
+        "id": "2339c6b0-a0e9-4684-a4d1-70cadc303a99",
+        "name": "Versalles",
+        "slug": [
+          "neighbourhood-colombia-76-001-000215"
+        ],
+        "location_type": "neighbourhood"
+      },
+      "country": [
+        {
+          "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+          "name": "Colombia",
+          "slug": [
+            "country-48-colombia"
+          ]
+        }
+      ],
+      "state": [
+        {
+          "id": "baa6a98e-3451-4ae9-b082-3e395a5f0504",
+          "name": "Valle del cauca",
+          "slug": [
+            "state-colombia-76-valle-del-cauca"
+          ],
+          "indicative": null
+        }
+      ],
+      "city": [
+        {
+          "id": "0e99ce18-9ff5-4c20-9b60-6150cc9e094b",
+          "name": "Cali",
+          "slug": [
+            "city-colombia-76-001"
+          ]
+        }
+      ],
+      "locality": [],
+      "commune": [
+        {
+          "id": "9cd1f491-3798-4752-b0c7-83d084332daa",
+          "name": "Comuna 2",
+          "slug": [
+            "commune-colombia-cali-001-76-02"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "id": "09acfec0-3774-4bb6-b8af-5216d06d59e1",
+          "name": "Zona Norte",
+          "slug": [
+            "zone-colombia-cali-norte"
+          ]
+        }
+      ],
+      "region": [],
+      "neighbourhood": [
+        {
+          "id": "2339c6b0-a0e9-4684-a4d1-70cadc303a99",
+          "name": "Versalles",
+          "slug": [
+            "neighbourhood-colombia-76-001-000215"
+          ]
+        }
+      ]
+    },
+    "seller": null,
+    "technicalSheet": [
+      {
+        "field": "property_type_name",
+        "value": "Apartamento",
+        "text": "Tipo de Inmueble"
+      },
+      {
+        "field": "construction_state_name",
+        "value": "Usado",
+        "text": "Estado"
+      },
+      {
+        "field": "bathrooms",
+        "value": "3",
+        "text": "Baños"
+      },
+      {
+        "field": "m2Built",
+        "value": "211 m2",
+        "text": "Área Construida"
+      },
+      {
+        "field": "constructionYear",
+        "value": "más de 30 años",
+        "text": "Antigüedad"
+      },
+      {
+        "field": "bedrooms",
+        "value": "3",
+        "text": "Habitaciones"
+      },
+      {
+        "field": "garage",
+        "value": "1",
+        "text": "Parqueaderos"
+      },
+      {
+        "field": "m2apto",
+        "value": "211 m2",
+        "text": "Área Privada"
+      },
+      {
+        "field": "stratum",
+        "value": "5",
+        "text": "Estrato"
+      },
+      {
+        "field": "commonExpenses",
+        "value": "$ 1.141.000",
+        "text": "Administración"
+      },
+      {
+        "field": "floor",
+        "value": "9",
+        "text": "Piso N°"
+      },
+      {
+        "field": "floorsAmount",
+        "value": "",
+        "text": "Cantidad de pisos"
+      },
+      {
+        "field": "barter",
+        "value": "",
+        "text": "Acepta permuta"
+      }
+    ],
+    "image_count": 30,
+    "file_count": 0,
+    "imgSize": 165348,
+    "link": "/apartamento-en-venta-en-versalles-cali/193006583",
+    "property_type": {
+      "id": 2,
+      "name": "Apartamento"
+    },
+    "operation_type": {
+      "id": 1,
+      "name": "Venta"
+    },
+    "barter": false,
+    "facilities": [
+      {
+        "id": 243,
+        "name": "Ascensor",
+        "group": "Exterior"
+      },
+      {
+        "id": 251,
+        "name": "Balcón",
+        "group": "Interior"
+      },
+      {
+        "id": 279,
+        "name": "Citófono",
+        "group": "Interior"
+      },
+      {
+        "id": 333,
+        "name": "Estudio",
+        "group": "Interior"
+      },
+      {
+        "id": 377,
+        "name": "Parques cercanos",
+        "group": "Sector"
+      },
+      {
+        "id": 389,
+        "name": "Planta Eléctrica",
+        "group": "Exterior"
+      },
+      {
+        "id": 391,
+        "name": "Portería / Recepción",
+        "group": "Exterior"
+      },
+      {
+        "id": 424,
+        "name": "Supermercados / C.Comerciales",
+        "group": "Sector"
+      },
+      {
+        "id": 436,
+        "name": "Trans. Público cercano",
+        "group": "Sector"
+      },
+      {
+        "id": 441,
+        "name": "Vigilancia",
+        "group": "Exterior"
+      },
+      {
+        "id": 444,
+        "name": "Vista panorámica",
+        "group": "Exterior"
+      },
+      {
+        "id": 452,
+        "name": "Zona de lavandería",
+        "group": "Interior"
+      },
+      {
+        "id": 455,
+        "name": "Zona Residencial",
+        "group": "Sector"
+      }
+    ],
+    "m2": 211,
+    "hectares": null,
+    "created_at": "2025-10-21",
+    "updated_at": "2025-10-21",
+    "latitude": 3.4615507,
+    "longitude": -76.5285802,
+    "images": [
+      {
+        "id": 256709117,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b28f2caf5_infocdn__luc3mgugqllzshpv3d7m21pxztxjh582wqzygzsnjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709118,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b28faeb2e_infocdn__vcimrzztyvjvlv1ppxeqnph0etpaslmkttka0yb7jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709119,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2903ff87_infocdn__jvzxv4vty0sblrf388qpwkhp6pgljk8zpb8b96pijpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709120,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b290f264b_infocdn__r60spnssegfnntjel7swdkmrgyjb1hadlcjenekrjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709121,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2919176c_infocdn__d9gbjvqezllf4kgmqyj4vct5zlbkvjytomert9bfjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709122,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2922dc4d_infocdn__byl69uduozkc2rf2vkpli5hi05hu33jpipgah0lcjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709124,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b292b808a_infocdn__e8j7ljv4fdbzhcmg9f4nqcmvuwp11a73z53fyjssjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709125,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29424a9b_infocdn__hyhy9wo58nnj8tyip5on6iavq54d8c60ddrmaqufjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709126,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b294e102b_infocdn__yv6b533turz6wj3vvybixxrgvwnj7g7gkmhw9ubqjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709127,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2956eff6_infocdn__yxo607imfyx2gckupuyrc5jtyy18yphujqwpvcstjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709128,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b295f2460_infocdn__uuuv0lynklihivxdvpxfubxqxw6unmey9o7jxmjdjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709129,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29680254_infocdn__s7czugiuasyluifvjgmsobiy25moufgbxry1l3xejpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709130,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b297143d8_infocdn__ljwocedlttwtoczutanuwjpiuisjnuczgncgpq98jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709131,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29799615_infocdn__u8xhe2cyxlhmggekleogxzvy5nlenposccg185nqjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709132,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b298549f8_infocdn__ovuvpscvys9fzxrazsdixva3gt8w6vx1pndgfr7sjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709133,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b298df6d8_infocdn__5ad4vu4llbuei2zmgqommc1rxjvfqjhln6dlnfaajpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709134,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2996617a_infocdn__ibgrsravg15imqojag8q4mf5dfjxhqf1ahn296uzjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709135,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29a1cf00_infocdn__tsfyzi8hmd3omydsavdy4ap4vfywwdkrpjrmgxdwjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709136,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29aa0274_infocdn__nfxll8vpmw98vo33ywrqf7vzsszvqxocwxo4droojpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709137,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29b344fc_infocdn__m7vcnr8pwypq7y9dchaxg0vxu7qymkbyxona2twljpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709138,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29baceab_infocdn__oj37c00bwjvfbgzvfbtkjc2ohy2pnfoujlu0kdgrjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709139,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29c53bfb_infocdn__yfltyxc5wwxeoq9i35c0fspbst38dsfdsbh0syzsjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709140,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29cdb5cd_infocdn__mmulpbyochkks5snldy3n9jhgvyg01mdvbbn7ytvjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709141,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29d68906_infocdn__amfjfbucqxxtackk3j8hli3szyzvdwrayezygytljpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709142,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29de7641_infocdn__hx3uuvqt3x2iyo6sioonc9nghlv0irqpteavkbshjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709143,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29e79c31_infocdn__pk6g6fkkyk8b1fae2z1tznwnyhwjjmyo4eoruvdrjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709144,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29f0829a_infocdn__qw7nnwg8f6hunrjw8ejcfjlmoece4zm5iw97tbfxjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709145,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b29fc1120_infocdn__kpotm5v0kwz2b6ghcpcf7s1irvgfjkwz9tojl85njpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709146,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2a05d8ab_infocdn__pwd1m7mymm1p2fyrpmnfwllr3ez2abovdw6zexeijpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 256709147,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/68f7b2a0db411_infocdn__vkxcajtqzayzcruynrc8lxrvaq8x7pqogdhl2jeujpg.jpg",
+        "tag": null
+      }
+    ],
+    "files": [],
+    "source": 1,
+    "color": 3,
+    "project_group_md5": "property_193006583",
+    "project": [],
+    "pausd": false,
+    "pointType": false,
+    "zoom": 15,
+    "youtube": "",
+    "highlight": 0,
+    "active": true,
+    "deleted": false,
+    "relevance": 76.001,
+    "antiquity": 5,
+    "construction_year": null,
+    "notes": "",
+    "sold": false,
+    "soldDate": null,
+    "discount": null,
+    "draft": false,
+    "sign": null,
+    "guarantee": null,
+    "facilitiesNotApply": false,
+    "commonExpenses": {
+      "amount": 1141000,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$"
+      }
+    },
+    "price_variation": {},
+    "ceCurrencyID": 4,
+    "highlightDate": null,
+    "socialMediaLinks": [
+      {
+        "slug": "facebook",
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-cali/193006583",
+        "icon": "icon-facebook-1",
+        "order": null
+      },
+      {
+        "slug": "linkedin",
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-cali/193006583",
+        "icon": "icon-linkedin",
+        "order": null
+      },
+      {
+        "slug": "twitter",
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-cali/193006583",
+        "icon": "icon-twitter",
+        "order": null
+      },
+      {
+        "slug": "email",
+        "name": "email",
+        "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-versalles-cali/193006583",
+        "icon": "icon-mail",
+        "order": null
+      }
+    ],
+    "m2Built": 211,
+    "garage": 1,
+    "office": false,
+    "dispositionID": 1,
+    "bathrooms": 3,
+    "rooms": 0,
+    "seaview": false,
+    "livingPlace": false,
+    "condominium": false,
+    "frontLength": null,
+    "floorsCount": 0,
+    "m2apto": 211,
+    "apartmentsPerFloor": 0,
+    "floor": 9,
+    "neighborhood_id": 0,
+    "estate_id": 0,
+    "farmhouse": false,
+    "allowedHeight": "",
+    "isFavorite": false,
+    "isExternal": false,
+    "guests": 0,
+    "seasons": [],
+    "occupancies": [],
+    "temporal_price": null,
+    "temporal_currency": {},
+    "seaDistanceName": null,
+    "tour3d": null,
+    "legacy_propID": 193006583,
+    "isProject": null,
+    "isProjectUnit": false,
+    "operation_type_id": 1,
+    "property_type_id": 2,
+    "currency": "$",
+    "currency_id": 4,
+    "hidePrice": false,
+    "stratum": 5,
+    "commonExpenses_currency": "$",
+    "constStatesID": 0,
+    "bedrooms": 3,
+    "event": {
+      "show": false,
+      "fecha_inicio_evento": null,
+      "link": null,
+      "logo": null,
+      "tag": null
+    },
+    "turbo_product": {
+      "start_date": null,
+      "end_date": null,
+      "duration": null
+    },
+    "tag": {},
+    "commercial_units": {},
+    "modify_score": 0,
+    "modify_score_client": 0,
+    "description_count": 925,
+    "categories_count": 13,
+    "has_images": true,
+    "has_video": false,
+    "paid_quota": true,
+    "logo": null,
+    "include_administration": false,
+    "md5": 193006583,
+    "hasGarage": true,
+    "penthouse": false,
+    "idForm": null,
+    "finalization_date": null,
+    "fair": {},
+    "hasTour3d": false,
+    "duplicated": []
+  },
+  "technical_sheet": [
+    {
+      "field": "property_type_name",
+      "value": "Apartamento",
+      "text": "Tipo de Inmueble"
+    },
+    {
+      "field": "construction_state_name",
+      "value": "Usado",
+      "text": "Estado"
+    },
+    {
+      "field": "bathrooms",
+      "value": "3",
+      "text": "Baños"
+    },
+    {
+      "field": "m2Built",
+      "value": "211 m2",
+      "text": "Área Construida"
+    },
+    {
+      "field": "constructionYear",
+      "value": "más de 30 años",
+      "text": "Antigüedad"
+    },
+    {
+      "field": "bedrooms",
+      "value": "3",
+      "text": "Habitaciones"
+    },
+    {
+      "field": "garage",
+      "value": "1",
+      "text": "Parqueaderos"
+    },
+    {
+      "field": "m2apto",
+      "value": "211 m2",
+      "text": "Área Privada"
+    },
+    {
+      "field": "stratum",
+      "value": "5",
+      "text": "Estrato"
+    },
+    {
+      "field": "commonExpenses",
+      "value": "$ 1.141.000",
+      "text": "Administración"
+    },
+    {
+      "field": "floor",
+      "value": "9",
+      "text": "Piso N°"
+    },
+    {
+      "field": "floorsAmount",
+      "value": "",
+      "text": "Cantidad de pisos"
+    },
+    {
+      "field": "barter",
+      "value": "",
+      "text": "Acepta permuta"
+    }
+  ]
+}

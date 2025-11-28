@@ -1,0 +1,620 @@
+{
+  "data": {
+    "id": 191887750,
+    "idFincaLegacy": null,
+    "title": "Casa en  Venta en Pance, Cali",
+    "typeID": 1,
+    "address": "Cra. 118, Barrio Pance, Cali, Valle del Cauca, Colombia",
+    "showAddress": true,
+    "country_id": 3,
+    "description": "en sector de expansión de Cali, casa campestre, estilo colonial, cerca al colegio pio XII, incolballet, Betania, Zona Andalucía, dentro de la ciudad de Cali pero se siente en el campo,muy buena altura, en un lote de  2.676m2, metros construidos 846.7 m2, incluyendo los metros de la zona recreativa,  2 plantas, pisos en tablón, 5 alcobas, la principal con baño amplio y closet, baño que comparten las alcobas y baño social . Sala comedor , comedor auxiliar, estudio o sala de TV, Cocina grande y una cocina en el exterior como complemento, depósito, estadero amplio.",
+    "code": "FRTA5130",
+    "code2": null,
+    "finances": false,
+    "grouped_ids": null,
+    "img": "https://cdn2.infocasas.com.uy/repo/img/678a886e8ea32_infocdn__uov63yhr5zw9iygsp2yhxvzf9icwytcznchtzvjmjpg.jpg",
+    "isMapFeatured": false,
+    "price": {
+      "amount": 2000000000,
+      "admin_included": 2000000000,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$",
+        "rate": 3725.22
+      }
+    },
+    "price_amount_usd": 536881,
+    "price_admin_usd": 536881,
+    "owner": {
+      "id": 174832184,
+      "name": "Construdiseños",
+      "masked_phone": "+57 3",
+      "whatsapp_phone": null,
+      "has_whatsapp": true,
+      "active": true,
+      "logo": "https://static-prod-asset.fincaraiz.com.co/site/fincaraiz_service/media/corporation/logo/ec0ee60c-d99f-47fc-b238-a0b33b18307b/opt/2024020515560011362.png",
+      "inmoLink": null,
+      "inmoPropsLink": "/inmobiliarias/174832184-construdiseños/propiedades",
+      "inmofull": false,
+      "type": "inmobiliaria",
+      "particular": false,
+      "address": "",
+      "subsidiaries": [
+        {
+          "id": 695258,
+          "name": "Casa central",
+          "masked_phone": "+5731",
+          "address": "",
+          "office_hours": ""
+        }
+      ]
+    },
+    "locations": {
+      "location_point": "POINT (-76.543434 3.349542)",
+      "location_main": {
+        "id": "bef1cf70-330f-4178-a0dd-056cc5b0bf42",
+        "name": "Pance",
+        "slug": [
+          "neighbourhood-8202206-parcelaciones_pance"
+        ],
+        "location_type": "neighbourhood"
+      },
+      "country": [
+        {
+          "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+          "name": "Colombia",
+          "slug": [
+            "country-48-colombia"
+          ]
+        }
+      ],
+      "state": [
+        {
+          "id": "baa6a98e-3451-4ae9-b082-3e395a5f0504",
+          "name": "Valle del cauca",
+          "slug": [
+            "state-colombia-76-valle-del-cauca"
+          ],
+          "indicative": null
+        }
+      ],
+      "city": [
+        {
+          "id": "0e99ce18-9ff5-4c20-9b60-6150cc9e094b",
+          "name": "Cali",
+          "slug": [
+            "city-colombia-76-001"
+          ]
+        }
+      ],
+      "locality": [],
+      "commune": [
+        {
+          "id": "b45c5e3e-f532-4087-b3d0-7bf10498087a",
+          "name": "Comuna 22",
+          "slug": [
+            "commune-colombia-cali-001-76-22"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "id": "5c3e8161-5e5e-42a9-af5e-fa5ec3e3f6f2",
+          "name": "Sur",
+          "slug": [
+            "zone-colombia-cali-sur"
+          ]
+        }
+      ],
+      "region": [],
+      "neighbourhood": [
+        {
+          "id": "5e308a76-29c4-4856-92bc-0525cb06f645",
+          "name": "Conjunto residencial umbria",
+          "slug": [
+            "neighbourhood-colombia-76-001-002215"
+          ]
+        },
+        {
+          "id": "bef1cf70-330f-4178-a0dd-056cc5b0bf42",
+          "name": "Pance",
+          "slug": [
+            "neighbourhood-8202206-parcelaciones_pance"
+          ]
+        },
+        {
+          "id": "11fe2beb-b8b9-411b-b267-76c26b280e33",
+          "name": "Cañasgordas",
+          "slug": [
+            "neighbourhood-cali-76-canasgordas"
+          ]
+        }
+      ]
+    },
+    "seller": null,
+    "technicalSheet": [
+      {
+        "field": "property_type_name",
+        "value": "Casa",
+        "text": "Tipo de Inmueble"
+      },
+      {
+        "field": "construction_state_name",
+        "value": "Usado",
+        "text": "Estado"
+      },
+      {
+        "field": "bathrooms",
+        "value": "",
+        "text": "Baños"
+      },
+      {
+        "field": "constructionYear",
+        "value": "",
+        "text": "Antigüedad"
+      },
+      {
+        "field": "bedrooms",
+        "value": "-1",
+        "text": "Habitaciones"
+      },
+      {
+        "field": "garage",
+        "value": "",
+        "text": "Parqueaderos"
+      },
+      {
+        "field": "m2Built",
+        "value": "",
+        "text": "Área Construida"
+      },
+      {
+        "field": "m2Terrain",
+        "value": "",
+        "text": "Área del terreno"
+      },
+      {
+        "field": "m2apto",
+        "value": "",
+        "text": "Área Privada"
+      },
+      {
+        "field": "stratum",
+        "value": "6",
+        "text": "Estrato"
+      },
+      {
+        "field": "floor",
+        "value": "",
+        "text": "Piso N°"
+      },
+      {
+        "field": "floorsAmount",
+        "value": "",
+        "text": "Cantidad de pisos"
+      },
+      {
+        "field": "barter",
+        "value": "",
+        "text": "Acepta permuta"
+      }
+    ],
+    "image_count": 28,
+    "file_count": 0,
+    "imgSize": 47218,
+    "link": "/casa-en-venta-en-pance-cali/191887750",
+    "property_type": {
+      "id": 1,
+      "name": "Casa"
+    },
+    "operation_type": {
+      "id": 1,
+      "name": "Venta"
+    },
+    "barter": false,
+    "facilities": [
+      {
+        "id": 251,
+        "name": "Balcón",
+        "group": "Interior"
+      },
+      {
+        "id": 284,
+        "name": "Cocina Integral",
+        "group": "Interior"
+      },
+      {
+        "id": 305,
+        "name": "Cuarto de servicio",
+        "group": "Interior"
+      },
+      {
+        "id": 309,
+        "name": "Depósito / Bodega",
+        "group": "Interior"
+      },
+      {
+        "id": 310,
+        "name": "Despensa",
+        "group": "Interior"
+      },
+      {
+        "id": 349,
+        "name": "Instalación de gas",
+        "group": "Interior"
+      },
+      {
+        "id": 352,
+        "name": "Jardín",
+        "group": "Exterior"
+      },
+      {
+        "id": 376,
+        "name": "Parqueadero Visitantes",
+        "group": "Exterior"
+      },
+      {
+        "id": 383,
+        "name": "Piscina",
+        "group": "Exterior"
+      },
+      {
+        "id": 452,
+        "name": "Zona de lavandería",
+        "group": "Interior"
+      }
+    ],
+    "m2": 2676,
+    "m2Built": null,
+    "m2apto": 0,
+    "m2Terrain": null,
+    "m2Terrace": null,
+    "hectares": null,
+    "created_at": "2025-01-17",
+    "updated_at": "2025-08-19",
+    "latitude": 3.349542,
+    "longitude": -76.543434,
+    "images": [
+      {
+        "id": 202766228,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886e8ea32_infocdn__uov63yhr5zw9iygsp2yhxvzf9icwytcznchtzvjmjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766199,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a88644c3ad_infocdn__d8dpuhx7epj56shycvsngjiwx7ruhx6u67m4kliqjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766201,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a8864ac9b9_infocdn__udftuuw9vtu04kcir1d5qnjazixak9j66o7ifpaujpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766202,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a88651e202_infocdn__mencbkissgnw180kru71h62tlq6zpoj88jodcbadjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766203,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886577f45_infocdn__kj8b2q116qrk8wk4u4w0pl0hz9v3mcve1ers05o0jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766204,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a8865cbcea_infocdn__8ggyhnzinumaoehzws4vst0gbaj3jelpifjzysn4jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766205,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a88663246e_infocdn__qdxa8uio3twrff6fvd9ecxctjdb3ngnhibju9hzejpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766206,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886698396_infocdn__k8y0zohh5hb8korssuz7ebjyiyveh6xnv3gsomeqjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766207,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a8866e5ba6_infocdn__zvcgeiukz8cvfyi3sgkospwgdczf4ztxo4yaegrljpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766208,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a88675cd17_infocdn__rhznostpgdvdvfzr6cc3sm0bykajigbr3bgk9amsjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766209,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a8867c05fc_infocdn__hplztefz36b42mxqfl9o1b7l9ynapsny73kkmx1bjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766210,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886826d67_infocdn__n2gs5rjg0rg72sciprznwzxblvj8gyvle4vh8rxgjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766211,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886884691_infocdn__a2kp4gzjwftqzs75vwbfbq0jlywf5t1u2jqrio48jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766213,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a8869289fc_infocdn__fki4meei3rcthes1q03bmlciqrccsbyprmsur4jjjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766214,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a88697d58b_infocdn__ptdqjjas7dtukegymalfmp5aaalycjdf7aw5i2c5jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766215,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a8869d16f8_infocdn__9vloofhdais0lgh2tnpq80sdpfu1ba78jldx5vfzjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766216,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886a47840_infocdn__wtsxfl4h8nyfncywaxilgcl4xp9h1ahhz89q5ufljpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766217,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886a9b8ae_infocdn__vc8mtmzqxddcba1swhpn39epbznpcjajoatcos2ijpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766218,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886b06059_infocdn__yzpztfc1ih36bdfwpazc3cyvy3wqqbnrm4zbzfqqjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766219,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886b5bd0f_infocdn__piy8vzq4xysd8l207edmvfe4wlgwocff5spmj8r1jpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766220,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886bb2165_infocdn__1msxrqsposdcooi9m0nw2y0sazk1etcekzjwdjcajpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766221,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886c1c686_infocdn__rq4rusuengxrri3ca3esfoi52otkzvy35ef9twgdjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766222,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886c7eeaa_infocdn__5ymba9y6bzoeuoxldt09i3mfqgwlsxxd0sajllojjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766223,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886ce03f4_infocdn__wrmsv1xtqose1zfla6pazqqun2ew4lfnmuw7pdcfjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766225,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886d4dffe_infocdn__klr0g06bg95ko2z5b7tjj0m7wzc4ixbiwjs4qqxljpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766226,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886da8da6_infocdn__hh0b2n53rfd1aqdwk9mbs5fuxczh7emzsw0v6lenjpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766227,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886e0c784_infocdn__mlocjlxly0yhwzbwqdylwij8p02yrxjzmq2hom4njpg.jpg",
+        "tag": null
+      },
+      {
+        "id": 202766229,
+        "image": "https://cdn2.infocasas.com.uy/repo/img/678a886ef00fe_infocdn__xnubchsg1wbrjkbiiwe6edoe6fgrsyv8xq7gqbx3jpg.jpg",
+        "tag": null
+      }
+    ],
+    "files": [],
+    "source": null,
+    "color": null,
+    "project_group_md5": "property_191887750",
+    "project": [],
+    "pausd": false,
+    "pointType": false,
+    "zoom": 15,
+    "youtube": "",
+    "highlight": 17,
+    "active": true,
+    "deleted": false,
+    "relevance": 0,
+    "antiquity": null,
+    "construction_year": null,
+    "notes": "",
+    "sold": false,
+    "soldDate": null,
+    "discount": null,
+    "draft": false,
+    "sign": null,
+    "guarantee": null,
+    "facilitiesNotApply": false,
+    "commonExpenses": {
+      "amount": 0,
+      "hidePrice": false,
+      "currency": {
+        "id": 4,
+        "name": "$"
+      }
+    },
+    "price_variation": {},
+    "ceCurrencyID": 4,
+    "highlightDate": "2025-08-16",
+    "socialMediaLinks": [
+      {
+        "slug": "facebook",
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/casa-en-venta-en-pance-cali/191887750",
+        "icon": "icon-facebook-1",
+        "order": null
+      },
+      {
+        "slug": "linkedin",
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/casa-en-venta-en-pance-cali/191887750",
+        "icon": "icon-linkedin",
+        "order": null
+      },
+      {
+        "slug": "twitter",
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/casa-en-venta-en-pance-cali/191887750",
+        "icon": "icon-twitter",
+        "order": null
+      },
+      {
+        "slug": "email",
+        "name": "email",
+        "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/casa-en-venta-en-pance-cali/191887750",
+        "icon": "icon-mail",
+        "order": null
+      }
+    ],
+    "garage": 0,
+    "office": false,
+    "dispositionID": 1,
+    "bathrooms": 0,
+    "rooms": 0,
+    "seaview": false,
+    "livingPlace": false,
+    "condominium": false,
+    "frontLength": null,
+    "floorsCount": 0,
+    "apartmentsPerFloor": 0,
+    "floor": 0,
+    "neighborhood_id": 0,
+    "estate_id": 0,
+    "farmhouse": false,
+    "allowedHeight": "",
+    "isFavorite": false,
+    "isExternal": false,
+    "guests": 0,
+    "seasons": [],
+    "occupancies": [],
+    "temporal_price": null,
+    "temporal_currency": {},
+    "seaDistanceName": null,
+    "tour3d": null,
+    "legacy_propID": 191887750,
+    "isProject": null,
+    "isProjectUnit": false,
+    "operation_type_id": 1,
+    "property_type_id": 1,
+    "currency": "$",
+    "currency_id": 4,
+    "hidePrice": false,
+    "stratum": 6,
+    "commonExpenses_currency": "$",
+    "constStatesID": 0,
+    "bedrooms": -1,
+    "event": {
+      "show": false,
+      "fecha_inicio_evento": null,
+      "link": null,
+      "logo": null,
+      "tag": null
+    },
+    "turbo_product": {
+      "start_date": null,
+      "end_date": null,
+      "duration": null
+    },
+    "tag": {},
+    "commercial_units": {},
+    "modify_score": 0,
+    "modify_score_client": 0,
+    "description_count": 567,
+    "categories_count": 10,
+    "has_images": true,
+    "has_video": false,
+    "paid_quota": true,
+    "logo": null,
+    "include_administration": false,
+    "md5": 191887750,
+    "hasGarage": false,
+    "penthouse": false,
+    "idForm": null,
+    "finalization_date": null,
+    "fair": {},
+    "hasTour3d": false,
+    "duplicated": []
+  },
+  "technical_sheet": [
+    {
+      "field": "property_type_name",
+      "value": "Casa",
+      "text": "Tipo de Inmueble"
+    },
+    {
+      "field": "construction_state_name",
+      "value": "Usado",
+      "text": "Estado"
+    },
+    {
+      "field": "bathrooms",
+      "value": "",
+      "text": "Baños"
+    },
+    {
+      "field": "constructionYear",
+      "value": "",
+      "text": "Antigüedad"
+    },
+    {
+      "field": "bedrooms",
+      "value": "-1",
+      "text": "Habitaciones"
+    },
+    {
+      "field": "garage",
+      "value": "",
+      "text": "Parqueaderos"
+    },
+    {
+      "field": "m2Built",
+      "value": "",
+      "text": "Área Construida"
+    },
+    {
+      "field": "m2Terrain",
+      "value": "",
+      "text": "Área del terreno"
+    },
+    {
+      "field": "m2apto",
+      "value": "",
+      "text": "Área Privada"
+    },
+    {
+      "field": "stratum",
+      "value": "6",
+      "text": "Estrato"
+    },
+    {
+      "field": "floor",
+      "value": "",
+      "text": "Piso N°"
+    },
+    {
+      "field": "floorsAmount",
+      "value": "",
+      "text": "Cantidad de pisos"
+    },
+    {
+      "field": "barter",
+      "value": "",
+      "text": "Acepta permuta"
+    }
+  ]
+}
